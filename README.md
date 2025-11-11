@@ -6,7 +6,7 @@
 <p align="center">
   🎓 <b>Junior Computer Science student</b> at Worcester Polytechnic Institute (WPI)<br>
   💡 Exploring <b>full-stack Agile development</b>, <b>AI</b>, and creative technologies<br>
-  🌍 Currently studying abroad in <b>Switzerland</b><br>
+  🌍 Recently studyied abroad in <b>Switzerland</b><br>
   🏌️‍♂️ <b>Golfer</b> • 🎣 <b>Fisherman</b> • 🚀 <b>Outdoorsman</b>
 </p>
 
@@ -15,7 +15,7 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,react,nodejs,express,prisma,postgres,vite,git,mantine" /><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nodejs,express,prisma,postgres,vite,git,tailwindcss" /><br>
 </p>
 
 <br>
@@ -23,8 +23,10 @@
 <h2 align="center">Currently Exploring</h2>
 
 <p align="center">
-  ⚛️ Advanced React Patterns & TypeScript<br>
-  🧠 AI Integration in Education
+  Advanced AI Topics<br>
+  Python Automation<br>
+  React & TypeScript & TailwindCSS<br>
+  AI Integration in Education
 </p>
 
 <br>
