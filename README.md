@@ -1,6 +1,7 @@
-<!-- Add your banner or image here -->
+<!-- Banner Image -->
+<img width="1071" height="360" alt="Add a heading" src="https://github.com/user-attachments/assets/6d7b3a0f-340b-4338-981c-018cc1b7e9d4" />
 
-<img width="1200" height="673" alt="Your paragraph text" src="https://github.com/user-attachments/assets/660906c5-9572-4cbb-bf8c-840a080fa11e" />
+
 <h2 align="center">Who am I?</h2>
 
 <p align="center">
