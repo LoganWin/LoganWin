@@ -10,9 +10,9 @@
 
 <!-- Contact Buttons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK/" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/logan-winters-31597b2b2/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-Gradient?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=4f46e5&color=0ea5e9" /></a>
-  <a href="mailto:YOUR@EMAIL.com" style="text-decoration: none;">
+  <a href="mailto:Logan9win@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-Gradient?logo=gmail&logoColor=white&style=for-the-badge&labelColor=3b82f6&color=64748b" /></a>
 </p>
 
