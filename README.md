@@ -34,21 +34,14 @@
   AI integration in education
 </p>
 
-
-
-
-
 <h2 align="center">GitHub Stats + My Stack</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=LoganWin&show_icons=true&theme=tokyonight"
-    style="margin-right: 12px;"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=LoganWin&theme=tokyonight"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=LoganWin&show_icons=true&theme=tokyonight" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=LoganWin&theme=tokyonight" /></td>
+  </tr>
+</table>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nodejs,express,prisma,postgres,vite,git,tailwindcss" />
 </p>
