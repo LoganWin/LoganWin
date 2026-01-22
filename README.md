@@ -34,12 +34,20 @@
   AI integration in education
 </p>
 
-<h2 align="center">GitHub Stats + My Stack</h2>
+<h2 align="center">GitHub Stats | My Stack</h2>
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoganWin&show_icons=true&theme=tokyonight)
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nodejs,express,prisma,postgres,vite,git,tailwindcss" />
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=LoganWin&show_icons=true&theme=tokyonight"
+        height="165"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nodejs,express,prisma,postgres,vite,git,tailwindcss&perline=6"
+      />
+    </td>
+  </tr>
+</table>
