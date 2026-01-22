@@ -35,11 +35,12 @@
 </p>
 
 <h2 align="center">GitHub Stats + My Stack</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LoganWin&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoganWin&theme=tokyonight" />
-</p>
-</table>
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoganWin&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LoganWin)](https://git.io/streak-stats)
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nodejs,express,prisma,postgres,vite,git,tailwindcss" />
 </p>
