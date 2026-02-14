@@ -35,6 +35,7 @@
 </p>
 
 <h2 align="center">GitHub Stats | My Stack</h2>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight)
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
