@@ -40,7 +40,7 @@
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=LoganWin&show_icons=true&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api?username=LoganWin&theme=tokyonight"
         height="165"
       />
     </td>
