@@ -28,7 +28,7 @@
 <h2 align="center">Currently Exploring</h2>
 
 <p align="center">
-  FinTech
+  FinTech<br>
   Loop Engineering<br>
   Python + Powershell automation & tooling<br>
   React • TypeScript • Tailwind<br>
