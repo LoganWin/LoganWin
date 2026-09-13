@@ -19,7 +19,7 @@
 <h2 align="center">Who am I?</h2>
 
 <p align="center">
-  🎓 <b>Junior Computer Science student</b> at Worcester Polytechnic Institute (WPI)<br>
+  🎓 <b>Senior Computer Science student</b> at Worcester Polytechnic Institute (WPI)<br>
   💡 Building with <b>full-stack Agile development</b>, <b>AI</b>, and creative technologies<br>
   🌍 Recently studied abroad in <b>Switzerland</b><br>
   🏌️‍♂️ <b>Golfer</b> • 🎣 <b>Fisherman</b> • 🏔️ <b>Outdoorsman</b>
@@ -28,8 +28,9 @@
 <h2 align="center">Currently Exploring</h2>
 
 <p align="center">
-  Advanced AI & LLMs<br>
-  Python automation & tooling<br>
+  FinTech
+  Loop Engineering<br>
+  Python + Powershell automation & tooling<br>
   React • TypeScript • Tailwind<br>
   AI integration in education
 </p>
